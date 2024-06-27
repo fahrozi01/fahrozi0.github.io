@@ -1,0 +1,13 @@
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (13, 3, 'TEST1', NULL, '2024-06-26 18:13:15', '2024-06-26 18:47:14', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (14, 1, 'ADMIN1', NULL, '2024-06-26 18:52:34', '2024-06-26 18:53:20', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (15, 2, 'ADMIN1', NULL, '2024-06-26 18:54:35', '2024-06-26 18:55:31', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (16, 1, 'ADMIN1', NULL, '2024-06-26 18:54:49', '2024-06-26 19:25:05', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (17, 4, 'ADMIN1', NULL, '2024-06-26 19:16:43', '2024-06-26 19:21:34', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (18, 1, 'ADMIN1', 'ADMIN1', '2024-06-26 19:35:09', '2024-06-26 19:35:18', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (19, 2, 'ADMIN1', 'ADMIN1', '2024-06-26 19:35:57', '2024-06-26 19:36:14', NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (20, 1, 'ADMIN1', 'ADMIN1', '2024-06-26 19:41:05', '2024-06-26 19:51:22', 0.16);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (21, 1, 'ADMIN1', 'ADMIN1', '2024-06-26 19:56:41', '2024-06-26 19:57:14', 0.01);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (22, 2, 'ADMIN1', 'ADMIN1', '2024-06-26 19:56:46', '2024-06-26 19:58:01', 0.02);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (23, 3, 'ADMIN1', NULL, '2024-06-26 19:56:51', NULL, NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (24, 4, 'ADMIN1', NULL, '2024-06-26 19:56:55', NULL, NULL);
+INSERT INTO `records`(`id`, `location_id`, `checkin_name`, `checkout_name`, `check_in`, `check_out`, `duration`) VALUES (25, 1, 'ADMIN1', NULL, '2024-06-26 19:57:51', NULL, NULL);
